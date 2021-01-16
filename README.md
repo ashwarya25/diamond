@@ -1,1 +1,2 @@
-# diamond
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
